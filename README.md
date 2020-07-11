@@ -1,4 +1,4 @@
-<h2> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" width="30px"></h2>
+<h2> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Wanghley/wanghley/master/Secret-Handshake.gif" width="60px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
