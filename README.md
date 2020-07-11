@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Medium Badge](https://img.shields.io/badge/-@https://medium.com/@wanghley-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@wanghley)](https://medium.com/@wanghley)
+[![ig Badge](https://img.shields.io/badge/@wanghley-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanghley)](https://instagram.com/wanghley) [![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Medium Badge](https://img.shields.io/badge/-@wanghley-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@wanghley)](https://medium.com/@wanghley)
 [![Gmail Badge](https://img.shields.io/badge/-wanghleys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghleys@gmail.com)](mailto:wanghleys@gmail.com)
 
 I am Wanghley Martins 😃. I am from Brasília, Brazil and currently doing my Computing technician degree at Federal Institute of Brasília 🏫.I love to explore and learn about new things and everytime try something new and totally creative.
@@ -24,7 +24,7 @@ Talk to me about
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Wanghley's Blog](#soon)
 - 🎯 Portfolio site: [Portfolio](https://wanghley.github.io)
-- 🔔 Subscribe: [Wanghley Soares Martins](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
+- 🔔 Subscribe on YT: [Wanghley Soares Martins](https://www.youtube.com/channel/UC4LC--P0TKC7aHe6Or5tRtg)
 - 🔭 I’m currently working on **Data Science, Fullstack development, Signal Processing**
 - 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Data Visualization**
 - 👯 I’m looking to collaborate on **Projects that want to change the world somehow**
