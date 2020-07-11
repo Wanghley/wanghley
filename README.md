@@ -30,7 +30,7 @@ Talk to me about
 - 👯 I’m looking to collaborate on **Projects that want to change the world somehow**
 - ⚡ Fun fact: Never let a computer know you're in a hurry.
 
-![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&hide=["issues"]&show_icons=true)
+![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wanghley.wanghley)
 
