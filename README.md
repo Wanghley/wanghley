@@ -32,7 +32,7 @@ Talk to me about
 
 ![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wanghley.wanghley)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wanghley.wanghley)
 
 
 
