@@ -13,8 +13,8 @@ I am Wanghley Martins 😃. I am from Brasília, Brazil and currently doing my C
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
-- Backend development using **Flask, Django** (Still learning)
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Angular**(learning)
+- Backend development using **Flask, Django, node.JS, GO** (Still learning)
 - Robust full-stack system design implementation
 - Desktop application development using **Flutter, JavaFX, PyQt5**(Still learning)
 - Mobile application development using **Flutter, Kotlin, React Native**
