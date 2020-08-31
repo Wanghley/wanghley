@@ -19,7 +19,11 @@ Talk to me about
 - Desktop application development using **Flutter, JavaFX, PyQt5**(Still learning)
 - Mobile application development using **Flutter, Kotlin, React Native**
 - Creating scalable cloud architecture using **AWS Cloud, Google Cloud, IBM Cloud**
-- Solving Data structure and algorithm questions in **Java, Python and R**
+- Solving Data structure and algorithm questions in **Java, Python and R** 
+
+<br>Used languages in repos:<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Wanghley's Blog](#soon)
