@@ -36,9 +36,14 @@ Talk to me about
 
 ![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wanghley.wanghley)
+## Bye
 
+![](https://komarev.com/ghpvc/?username=wanghley&label=📈+You+are+visitor+number&color=green)
 
+<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&section=footer&text=&lsaquo;small&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/small&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)
+  
 
 
 <!--
