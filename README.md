@@ -22,7 +22,7 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Java, Python and R** 
 
 <br>Used languages in repos:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanghley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact)](#)
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
