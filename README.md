@@ -42,7 +42,7 @@ Talk to me about
 
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&section=footer&text=&lsaquo;small&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/small&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&width=100&section=footer&text=&lsaquo;&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)
   
 
 
