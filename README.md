@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wanghleys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghleys@gmail.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
 
 I am Wanghley Martins 😃. I am from Brasília, Brazil and currently doing my Computing technician degree at Federal Institute of Brasília 🏫.I love to explore and learn about new things and everytime try something new and totally creative.
-## 👯 Communities
+<!--## 👯 Communities
 * Underground DEVs execute leader
 * U.S. Embassy in Brazil Alumni 
 * Projeto Globalizando mentee
@@ -21,17 +21,17 @@ Talk to me about
 - Creating scalable cloud architecture using **AWS Cloud, Google Cloud, IBM Cloud**
 - Solving Data structure and algorithm questions in **Java, Python and R** 
 
-<!--<br>Used languages in repos:<br>
+<br>Used languages in repos:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact)](#) -->
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Wanghley's Blog](#soon)
-- 🎯 Portfolio site: [Portfolio](https://wanghley.github.io)
+- 🎯 Website: [Wanghley's website](https://wanghley.com)
+- 📫 Read my blogs: [Wanghley's Blog](https://wanghley.com/blog)
 - 🔔 Subscribe on YT: [Wanghley Soares Martins](https://www.youtube.com/channel/UC4LC--P0TKC7aHe6Or5tRtg)
-- 🔭 I’m currently working on **Data Science, Fullstack development, Signal Processing**
+- 🔭 I’m currently working on **Data Science, Signal Processing, Neurodegenerative diseases**
 - 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Data Visualization**
-- 👯 I’m looking to collaborate on **Projects that want to change the world somehow**
+- 👯 I’m looking to collaborate on **Projects that are related to biomedical engineering, mainly in the field of neuroscience and neurodegenerative diseases**
 - ⚡ Fun fact: Never let a computer know you're in a hurry.
 
 ![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)
@@ -40,9 +40,9 @@ Talk to me about
 
 ![](https://komarev.com/ghpvc/?username=wanghley&label=📈+You+are+visitor+number&color=green)
 
-<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">
+<!--<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">-->
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&width=100&section=footer&text=&lsaquo;&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)
+<!--![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&width=100&section=footer&text=&lsaquo;&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)-->
   
 
 
