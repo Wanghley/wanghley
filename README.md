@@ -34,7 +34,7 @@ Talk to me about
 - 👯 I’m looking to collaborate on **Projects that are related to biomedical engineering, mainly in the field of neuroscience and neurodegenerative diseases**
 - ⚡ Fun fact: Never let a computer know you're in a hurry.
 
-![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)
+<!--![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)-->
 
 ## Bye
 
