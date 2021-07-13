@@ -5,7 +5,7 @@
 [![ig Badge](https://img.shields.io/badge/@wanghley-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanghley)](https://instagram.com/wanghley) [![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Dev.to Badge](https://img.shields.io/badge/wanghley-000000?&style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/wanghley)](https://dev.to/wanghley)
 [![Gmail Badge](https://img.shields.io/badge/-wanghleys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghleys@gmail.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
 
-I am Wanghley Martins 😃. I am from Brasília, Brazil and currently doing my Computing technician degree at Federal Institute of Brasília 🏫.I love to explore and learn about new things and everytime try something new and totally creative.
+I am Wanghley Martins 😃. I am from Brasília, Brazil and currently a Computing technician by the Federal Institute of Brasília 🏫.I love to explore and learn about new things and everytime try something new and totally creative.
 <!--## 👯 Communities
 * Underground DEVs execute leader
 * U.S. Embassy in Brazil Alumni 
