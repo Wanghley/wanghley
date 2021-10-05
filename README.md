@@ -39,7 +39,7 @@ Talk to me about
 
 <br>
 <p style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img height="250" style="padding-left: 100px; alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact&langs_count=10">
+  <img height="250" style="padding-left: 100px;" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact&langs_count=10">
   <img height="300" src="https://metrics.lecoq.io/wanghley" alt="Github Metrics">
 </p>
 
