@@ -5,7 +5,10 @@
 [![ig Badge](https://img.shields.io/badge/@wanghley-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanghley)](https://instagram.com/wanghley) [![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Dev.to Badge](https://img.shields.io/badge/wanghley-000000?&style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/wanghley)](https://dev.to/wanghley)
 [![Gmail Badge](https://img.shields.io/badge/-wanghleys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghleys@gmail.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
 
-I am Wanghley Martins 😃. I am from Brasília, Brazil and currently a Computing technician by the Federal Institute of Brasília 🏫.I love to explore and learn about new things and everytime try something new and totally creative.
+I'm Wanghley, I’m glad you’re here. I am currently based in Brasilia, Brazil. I am a data scientist, software developer, computer technician, and healthcare/biomedical engineering scientist. 
+
+I am currently a Computing Techinician, a social entrepreneur, scientist, data analyst and developer, quantum computing developer. 
+
 <!--## 👯 Communities
 * Underground DEVs execute leader
 * U.S. Embassy in Brazil Alumni 
@@ -20,9 +23,7 @@ Talk to me about
 - Mobile application development using **Flutter, Kotlin, React Native**
 - Creating scalable cloud architecture using **AWS Cloud, Google Cloud, IBM Cloud**
 - Solving Data structure and algorithm questions in **Java, Python and R** 
-
-<br>Used languages in repos:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact)](#) -->
+-->
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
@@ -35,6 +36,12 @@ Talk to me about
 - ⚡ Fun fact: Never let a computer know you're in a hurry.
 
 <!--![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)-->
+
+<br>
+<p style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img height="300" src="https://metrics.lecoq.io/wanghley" alt="Github Metrics">
+  <img height="250" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact&langs_count=10">
+</p>
 
 ## Bye
 
