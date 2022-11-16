@@ -5,14 +5,14 @@
 [![ig Badge](https://img.shields.io/badge/@wanghley-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanghley)](https://instagram.com/wanghley) [![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Dev.to Badge](https://img.shields.io/badge/wanghley-000000?&style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/wanghley)](https://dev.to/wanghley)
 [![Gmail Badge](https://img.shields.io/badge/-wanghleys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghleys@gmail.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
 
-I'm Wanghley, I’m glad you’re here. I am currently based in Brasilia, Brazil. I am a data scientist, software developer, computer technician, and healthcare/biomedical engineering scientist. 
-
-I am currently a Computing Techinician, a social entrepreneur, scientist, data analyst and developer, quantum computing developer. 
+I'm Wanghley, I’m glad you’re here. I am currently based in Durham, NC, USA. I am currently a Electrical/computer engineer student at Duke University, class of 2026, a data scientist, software developer, computer technician, and healthcare/biomedical engineering scientist, a social entrepreneur, scientist, data analyst and developer, quantum computing developer, and much more. 
 
 <!--## 👯 Communities
-* Underground DEVs execute leader
-* U.S. Embassy in Brazil Alumni 
-* Projeto Globalizando mentee
+* Líder Estudar fellow @ Fundação Estudar
+* Karsh Scholar @ Duke University
+* U.S. Embassy in Brazil alumni network
+* Regeneron ISEF alumni network
+* National Youth Science Foundation alumni network
 
 ## ⚡ Technologies
 Talk to me about
