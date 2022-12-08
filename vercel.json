@@ -1,0 +1,5 @@
+{
+  "name": "wanghley/wanghley",
+  "version": 2,
+  "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
+}
