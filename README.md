@@ -1,13 +1,21 @@
-<h2 vertical-align="middle"> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Wanghley/wanghley/master/Secret-Handshake_final.gif" width="70px"></h2>
+<h2 vertical-align="middle"> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/Wanghley/wanghley/master/Secret-Handshake_final.gif' width='200"'>
 
 [![ig Badge](https://img.shields.io/badge/@wanghley-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanghley)](https://instagram.com/wanghley) [![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Dev.to Badge](https://img.shields.io/badge/wanghley-000000?&style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/wanghley)](https://dev.to/wanghley)
-[![Gmail Badge](https://img.shields.io/badge/-wanghleys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghleys@gmail.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
+[![Gmail Badge](https://img.shields.io/badge/-wanghley@wanghley.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghley@wanghley.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
 
-I'm Wanghley, I’m glad you’re here. I am currently based in Durham, NC, USA. I am currently a Electrical/computer engineer student at Duke University, class of 2026, a data scientist, software developer, computer technician, and healthcare/biomedical engineering scientist, a social entrepreneur, scientist, data analyst and developer, quantum computing developer, and much more. 
+I'm Wanghley, I’m glad you’re here. I am currently based in Durham, NC, USA. I am currently a Electrical and Computer Engineering + Computer Science with a concentration in ML/AI student at Duke University, class of 2026, a data scientist, software developer, computer technician, and healthcare/biomedical engineering scientist, a social entrepreneur, scientist, data analyst and developer, quantum computing developer, and much more. 
 
-<!--## 👯 Communities
+## Hello World!! 🤔
+- 💬 Ask me about anything and everything.
+- 🎯 Website: [Wanghley's website](https://wanghley.com)
+- 🔭 I’m currently working on **Software development, Data Science, Signal Processing, Neurodegenerative diseases**
+- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Data Visualization**
+- 👯 I’m looking to collaborate on **Opportunities to solve problems and explore the joining between engineering and CS as tools**!
+- ⚡ Fun fact: Never let a computer know you're in a hurry.
+
+## 👯 Communities
 * Líder Estudar fellow @ Fundação Estudar
 * Karsh Scholar @ Duke University
 * U.S. Embassy in Brazil alumni network
@@ -16,24 +24,13 @@ I'm Wanghley, I’m glad you’re here. I am currently based in Durham, NC, USA.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Angular**(learning)
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Angular**
 - Backend development using **Flask, Django, node.JS, GO** (Still learning)
-- Robust full-stack system design implementation
-- Desktop application development using **Flutter, JavaFX, PyQt5**(Still learning)
-- Mobile application development using **Flutter, Kotlin, React Native**
-- Creating scalable cloud architecture using **AWS Cloud, Google Cloud, IBM Cloud**
+- Robust full-stack system design implementation with **node.JS, Python, Java**
+- Desktop application development using **Java, Python, Qt**(Still learning)
+- Creating scalable cloud architecture using **AWS Cloud, Microsfot Azure, Google Cloud, IBM Cloud**
 - Solving Data structure and algorithm questions in **Java, Python and R** 
--->
 
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 🎯 Website: [Wanghley's website](https://wanghley.com)
-- 📫 Read my blogs: [Wanghley's Blog](https://wanghley.com/blog)
-- 🔔 Subscribe on YT: [Wanghley Soares Martins](https://www.youtube.com/channel/UC4LC--P0TKC7aHe6Or5tRtg)
-- 🔭 I’m currently working on **Data Science, Signal Processing, Neurodegenerative diseases**
-- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Data Visualization**
-- 👯 I’m looking to collaborate on **Projects that are related to biomedical engineering, mainly in the field of neuroscience and neurodegenerative diseases**
-- ⚡ Fun fact: Never let a computer know you're in a hurry.
 
 <!--![Wanghley's github stats](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true)-->
 
