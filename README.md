@@ -1,6 +1,6 @@
 <h2 vertical-align="middle"> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-
-<img align='right' src='https://raw.githubusercontent.com/Wanghley/wanghley/master/Secret-Handshake_final.gif' width='200"'>
+<!-- 
+<img align='right' src='https://raw.githubusercontent.com/Wanghley/wanghley/master/Secret-Handshake_final.gif' width='200"'> -->
 
 [![ig Badge](https://img.shields.io/badge/@wanghley-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanghley)](https://instagram.com/wanghley) [![Twitter Badge](https://img.shields.io/badge/-@wanghley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanghley)](https://twitter.com/wanghley) [![Linkedin Badge](https://img.shields.io/badge/-wanghley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanghley/)](https://www.linkedin.com/in/wanghley/) [![Dev.to Badge](https://img.shields.io/badge/wanghley-000000?&style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/wanghley)](https://dev.to/wanghley)
 [![Gmail Badge](https://img.shields.io/badge/-wanghley@wanghley.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanghley@wanghley.com)](mailto:wanghleys@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/-wanghley-008ABC?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/wanghley)](https://www.kaggle.com/wanghley)
