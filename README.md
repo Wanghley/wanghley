@@ -27,6 +27,7 @@
  
  
 <br />
+<img align="right" width="420px" alt="GIF" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" />
 <p align="center">
   <h3> I'm 20 years old Full-Stack developer & data scientist from Brazil.</h3>
 </p>
@@ -37,7 +38,7 @@
    
  - Self-taught programming since the age o 9
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 Into Health tech and application of artificial intelligence
  
  - I do fullstack and a bit of everything :heart:
  
