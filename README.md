@@ -27,10 +27,10 @@
  
  
 <br />
-<img align="right" width="420px" alt="GIF" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" />
 <p align="center">
   <h3> I'm 20 years old Full-Stack developer & data scientist from Brazil.</h3>
 </p>
+<img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" />
 
  - ECE + CS student @ Duke University
  
@@ -45,13 +45,13 @@
  - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=20>](https://twitter.com/_hemant_joshi)
- 
+
  <p align="center">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
    </p>
 
 <!--  -->
-
+ <br /><br />
 <p align="center" >
 <a href="https://github.com/wanghley/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=wanghley&&show_icons=true&theme=algolia"/>
