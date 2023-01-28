@@ -1,7 +1,7 @@
 <div align="center">
-
+<img align="left" width="130px" alt="GIF" src="logo.png" />
    <h1>Hi there, I'm <a href="https://wanghley.com">Wanghley</a> 
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 </div>
 
 
@@ -27,7 +27,6 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> I'm 20 years old Full-Stack developer & data scientist from Brazil.</h3>
 </p>
@@ -53,8 +52,8 @@
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+<a href="https://github.com/wanghley/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=wanghley&&show_icons=true&theme=algolia"/>
   </a>
 
 </p>
