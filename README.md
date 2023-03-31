@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<h3> 👨🏽 Wanghley Soares Martins | 💻 Full Stack Developer | Data Scientist | 🛸 Brazil , USA </h3>
+<h3> 👨🏽 Wanghley Soares Martins | 💡 Engineer aspirant | 💻 Full Stack Developer | 📊 Data Scientist | 🛸 Brazil , USA </h3>
 </div>
 <p align='center'>
   <a href="https://wanghley.com"><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
