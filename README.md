@@ -28,11 +28,11 @@
  
 <br />
 <p align="center">
-  <h3> I'm 20 years old Full-Stack developer & data scientist from Brazil.</h3>
+  <h3>Full-Stack developer & data scientist from Brazil.</h3>
 </p>
 <img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" />
 
- - ECE + CS student @ Duke University
+ - ECE + CS + I&E student @ Duke University
  
  - Informatics technician graduated from the Federal Institute Brasília 
    
