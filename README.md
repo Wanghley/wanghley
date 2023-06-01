@@ -52,12 +52,12 @@
 
 <!--  -->
  <br /><br />
-<p align="center" >
-<a href="https://github.com/wanghley/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=wanghley&&show_icons=true&theme=algolia"/>
-  </a>
 
-</p>
+<div align="center">
+  <a href="https://github.com/loresgarcia">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <br />
 
