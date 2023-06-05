@@ -44,7 +44,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=20>](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=20>](https://instagram.com/wanghley)
 
  <p align="center">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
