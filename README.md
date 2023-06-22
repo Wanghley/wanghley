@@ -1,7 +1,9 @@
 <div align="center">
 <img align="left" width="130px" alt="GIF" src="logo.png" />
-   <h1>Hi there, I'm <a href="https://wanghley.com">Wanghley</a> 
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+   <h1>Hi there, I'm <a href="https://wanghley.com">Wanghley</a>
+      <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+      <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitor&color=blue">
+   </h1> 
 </div>
 
 
@@ -59,7 +61,7 @@
 
 <br />
 
-### - Languages and Tools...
+### Languages and Tools
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -110,7 +112,9 @@
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
+<!--
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+-->
 
