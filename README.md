@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<h3> 👨🏽 Wanghley Soares Martins | 💡 Engineer aspirant | 💻 Full Stack Developer | 📊 Data Scientist | 🛸 Brazil , USA </h3>
+<h4> 👨🏽 Wanghley Soares Martins | 💡 Engineer aspirant | 💻 Full Stack Developer | 📊 Data Scientist | 🛸 Brazil , USA </h4>
 </div>
 <p align='center'>
   <a href="https://wanghley.com"><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
@@ -28,11 +28,11 @@
  
 <br />
 <p align="center">
-  <h3>Full-Stack developer & data scientist from Brazil.</h3>
+  <h3>Full-Stack developer, expert systems engineer & data scientist.</h3>
 </p>
 <img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" />
 
- - ECE + CS + I&E student @ Duke University
+ - ECE + CS + Concentration ML/AI + I&E student @ Duke University
  
  - Informatics technician graduated from the Federal Institute Brasília 
    
@@ -40,15 +40,11 @@
 
  - 🛸 Into Health tech and application of artificial intelligence
  
- - I do fullstack and a bit of everything :heart:
+ - I do full-stack and a bit of everything :heart:
  
- - All About living life at its best.
+ - All about living life at its best.
  
  - 💬 Connect? lets get social 👉🏼 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=20>](https://instagram.com/wanghley)
-
- <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
 
 <!--  -->
  <br /><br />
@@ -77,10 +73,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 <!--
@@ -112,7 +104,7 @@
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💙 If you like my projects, Give them ⭐, Fork them, and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️</p>
 
