@@ -10,18 +10,17 @@
 <div align="center">
 <h4> 👨🏽 Wanghley Soares Martins | 💡 Engineer aspirant | 💻 Full Stack Developer | 📊 Data Scientist | 🛸 Brazil , USA </h4>
 </div>
+<!-- 
 <p align='center'>
   <a href="https://wanghley.com"><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/wanghley/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/wanghley"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://wanghley.medium.com/"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
  </p>
-
-
-
 <p align="center">
 <a href="https://visitor-badge.glitch.me/badge?page_id=wanghley.wanghley"> <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitors&color=blue"> </a>
  </p>
+ -->
  
  <h5 align="center">
    <i>⚡️I love Unix/Linux. I will talk about Unix/Linux.⚡️</i>
