@@ -1,8 +1,8 @@
 <div align="center">
 <img align="left" width="130px" alt="GIF" src="logo.png" />
    <h1>Hi there, I'm <a href="https://wanghley.com">Wanghley</a>
-      <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-      <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitor&color=blue">
+      <img src="https://img.shields.io/badge/He%2FHim-black" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+      <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitor%20%23&color=blue" align="right">
    </h1> 
 </div>
 
