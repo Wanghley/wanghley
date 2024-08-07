@@ -45,7 +45,8 @@
 </a>
 </div>
 
-### Stats
+<details>
+<summary><h2>📊 Github Stats</h2></summary>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanghley&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanghley&hide=Html&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true&theme=nord&border_color=61dafb&hide_border=true) |
 | :-: | :-: | :-: |
@@ -53,6 +54,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanghley&theme=nord_dark) | ![](https://github-readme-stats-wheat-one-23.vercel.app?user=wanghley&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+</details>
 <br />
 
 <details><summary><h2>🛠️ My Favorite Tools</h2></summary>
