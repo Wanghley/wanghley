@@ -1,6 +1,6 @@
 <div align="center">
 <img align="left" width="130px" alt="GIF" src="logo.png" />
-   <h1>Hi there, I'm <a href="https://wanghley.com">Wanghley</a>
+   <h1>Hi there, I'm <a href="https://wanghley.com">wanghley</a>
       <img src="https://img.shields.io/badge/He%2FHim-black" align="right"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
       <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitor%20%23&color=blue" align="right">
    </h1> 
@@ -8,60 +8,52 @@
 
 
 <div align="center">
-<h4> 👨🏽 Wanghley Soares Martins | 💡 Engineer aspirant | 💻 Full Stack Developer | 📊 Data Scientist | 🛸 Brazil , USA </h4>
+<h4> 👨🏽 Wanghley Soares Martins | 💡 Computer Engineer | 📊 Data Scientist | 💻 Full Stack Developer | 🛸 Brazil , USA </h4>
 </div>
-<!-- 
+
 <p align='center'>
-  <a href="https://wanghley.com"><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://wanghley.com"><img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/wanghley/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/wanghley"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://wanghley.medium.com/"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/wanghley"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 <p align="center">
 <a href="https://visitor-badge.glitch.me/badge?page_id=wanghley.wanghley"> <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitors&color=blue"> </a>
  </p>
- -->
+
  
  <h5 align="center">
-   <i>⚡️I love Unix/Linux. I will talk about Unix/Linux.⚡️</i>
+   <i>⚡️AI & Data nerd and Linux champ, building everything from hardware to software⚡️</i>
   </h5>
  
  
 <br />
 <p align="center">
-  <h3>Full-Stack developer, expert systems engineer & data scientist.</h3>
+  <h3>Computer and software engineer, AI & Data engineer </h3>
 </p>
 <img align="right" width="350px" alt="GIF" src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" />
 
- - ECE + CS + Concentration ML/AI + I&E student @ Duke University
+ - ECE + CS + Concentration ML/AI + Innovation & Entrepreneurship @ Duke University
  
  - Informatics technician graduated from the Federal Institute Brasília 
    
- - Self-taught programming since the age o 9
+ - Self-taught programming since the age of 9
 
  - 🛸 Into Health tech and application of artificial intelligence
  
  - I do full-stack and a bit of everything :heart:
  
  - All about living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=20>](https://instagram.com/wanghley)
 
-<!--  
+
+  
  <br /><br />
-
-<div align="center">
-<a href="https://github.com/wanghley">
-   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghley&theme=dark&hide_border=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact&langs_count=5&theme=dark&count_private=true"/>
-   <!--&exclude_repo=references-->
 </a>
 </div>
 
 ### Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanghley&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanghley&hide=Html&theme=nord_dark) |
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanghley&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanghley&hide=Html&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api?username=wanghley&show_icons=true&theme=nord&border_color=61dafb&hide_border=true) |
+| :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanghley&theme=nord_dark) | ![](https://github-readme-stats-wheat-one-23.vercel.app?user=wanghley&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
